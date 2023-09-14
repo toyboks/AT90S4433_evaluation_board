@@ -1987,7 +1987,7 @@
     (property "Value" "TestPoint_2Pole" (at 207.645 131.445 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" (at 205.74 130.175 0)
+    (property "Footprint" "project_lib_footprints:Power_socker" (at 205.74 130.175 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 205.74 130.175 0)
